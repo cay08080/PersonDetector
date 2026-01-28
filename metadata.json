@@ -1,0 +1,7 @@
+{
+  "name": "2Copy of Sentinel AI - Person Detector",
+  "description": "A real-time monitoring system that uses Gemini AI to detect human presence in camera feeds every 30 seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
